@@ -1,5 +1,5 @@
 # Machine-7 "Gigachad : 1 Vulnhub"
-**1.** Target-ын мэдэээл авах netdiscover командыг хийснээр бидний зорилтот IP гэж юу болохыг харах боломжтой
+**1.** Target-ын мэдэээл авах **netdiscover** командыг хийснээр бидний зорилтот IP гэж юу болохыг харах боломжтой
 
 ![image](https://github.com/Bultuush/Machine-7/assets/129934501/57e19211-1c99-4160-9a0a-115fd28c3d9f)
 
